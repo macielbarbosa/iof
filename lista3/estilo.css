@@ -1,0 +1,13 @@
+@charset 'utf8';
+
+h3{
+	margin-top: 50px;
+}
+
+input{
+	margin-bottom: 25px;
+}
+
+input#senha{
+	margin-left: 10px;
+}
