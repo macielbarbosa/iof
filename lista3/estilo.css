@@ -1,13 +1,19 @@
 @charset 'utf8';
 
 h3{
-	margin-top: 50px;
+	margin: 30px 0px;
 }
 
 input{
 	margin-bottom: 25px;
 }
 
-input#senha{
-	margin-left: 10px;
+div.formulario{
+	display: inline-block;
+	text-align: right;
+	padding: 0px;
+}
+
+th{
+	border: 1px solid black;
 }
